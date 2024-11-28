@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb2269f480c13074ca0aef5e7eb7965a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285495
+  packageName: GUI - Life Game
+  packageVersion: 1.0.3
+  assetPath: Assets/Layer Lab/GUI-LifeGame/Scene/DemoSecne_LifeGame.unity
+  uploadId: 712408
